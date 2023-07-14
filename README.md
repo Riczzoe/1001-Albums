@@ -1,6 +1,6 @@
 # 1001 Album Recommender
 
-This is a simple C program that selects one of the 1001 albums that must be listened to before dying and recommends it to you every day.
+This is a simple C program that selects one of the [1001 Albums You Must Hear Before You Die](https://en.wikipedia.org/wiki/1001_Albums_You_Must_Hear_Before_You_Die) and recommends it to you every day.
 
 ## Getting Started
 
